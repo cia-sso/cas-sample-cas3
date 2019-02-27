@@ -26,7 +26,7 @@
                 <configuration>
                     <!--<jettyXml>${basedir}/etc/jetty/jetty.xml,${basedir}/etc/jetty/jetty-ssl.xml,${basedir}/etc/jetty/jetty-https.xml</jettyXml>-->
                     <httpConnector>
-                        <port>8085</port>
+                        <port>8081</port>
                     </httpConnector>
                     <systemProperties>
                         <systemProperty>
